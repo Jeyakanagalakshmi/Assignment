@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding-left:30px;
+  padding-top: 20px;
+  box-sizing: border-box;
+  font-family:"Anybody";
+}
+div{
+  position: absolute;
+}
+
+.text-overlay {
+  position: absolute;
+  margin:auto;
+  top:7%;
+  left:33%;
+  align-items: center;
+  padding: 1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  color: black;
+  background-color:#6fdcdc ;
+}
+
+
